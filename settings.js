@@ -4,22 +4,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
+global.ownernomer = "2349044104362"
+global.ownername = "biggie fx"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '2349044104362,2349045613439'  //creator number
+global.ownername = 'biggie fx' //owner name
+global.botname = 'biggie fx' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = '†'
+global.author = 'biggie fx'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '☠️'
 global.wm = "David Cyril Tech."
 
 //theme link
@@ -31,11 +31,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
